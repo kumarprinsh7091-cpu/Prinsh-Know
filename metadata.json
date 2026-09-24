@@ -1,0 +1,6 @@
+{
+  "name": "Multi WatchTime Browser Pro",
+  "description": "Multi-screen video watchtime browser with custom timers, profile hub, Veo video animator, AI TTS voice announcer, and Maps studio grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
